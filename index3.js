@@ -1,3 +1,3 @@
-console.log("Hello3");
-console.log("Hello Git4");
-console.log("Hello Git6")
+function greet (){
+  console.log ("Hello from the branch")
+}
